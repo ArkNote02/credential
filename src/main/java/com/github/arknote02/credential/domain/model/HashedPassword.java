@@ -1,4 +1,4 @@
-package com.github.arknote02.authentication.domain.model;
+package com.github.arknote02.credential.domain.model;
 
 import lombok.NonNull;
 
